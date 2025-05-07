@@ -1,0 +1,55 @@
+<html>
+<!--Name: Isabell Davis
+    PROG PURPOSE: Menu Part of the Catering
+-->
+<htmllang="en">
+<head>
+<body>
+    <title> The Menu </title>
+</body>
+</head>
+<h1> Family size meals for two or four size portions </h1>
+
+<table>
+    <style>
+        body{
+           text-align:center;
+           color:#107621;
+           background-color: #b19f75; 
+           font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        table,td,th{
+            text-align: center;
+            color: black;
+            border-color: rgb(248, 245, 245);
+            border-style: double;
+        }
+    </style>
+    <tr>
+
+        <th> Sides </th>
+        <td>Ozro, Goat Cheese, and Spring Peas </td>
+        <td>Herby Rice Pilaf</td>
+        <td>Garlic Rosemary New Patatoes</td>
+        <td>Green Beans w/ Carnalized Balsamic Shallots</td>
+        <td>Hot Honey Glazed Carrots</td>
+        <td>Parmesan Crusted Broccoli</td>
+        <td>Green Goddess Salad</td>
+        <td>Ceasar Salad</td>
+    </tr>
+    <tr>
+        <th>Entrees</th>
+        <td>2 portion / 4 portion</td>
+        <td>Pesto Salmon </td>
+        <td>Lemon Pepper Roasted Chicken</td>
+        <td>Hoisin Pork Chops</td>
+        <td>BBQ Meatloaf</td>
+    </tr>
+</table> 
+
+    <iframe width="560" height="315"
+        src="SimplifyLOGO.png">
+    </iframe>
+
+</body>
+</html>
